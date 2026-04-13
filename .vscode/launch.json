@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReactorDemo",
+            "request": "launch",
+            "mainClass": "com.panjie.springbootdemo.reactor.ReactorDemo",
+            "projectName": "springboot-demo"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot - KafkaDemoApplication",
             "request": "launch",
             "mainClass": "com.example.kafka.KafkaDemoApplication",

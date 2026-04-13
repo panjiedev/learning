@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
         "redis-demo/src/main"
-    ]
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
 }
